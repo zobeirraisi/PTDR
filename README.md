@@ -4,7 +4,9 @@
 ## █ Dataset Download
 ### Real-world PTDR
 The real-world images and their annotations can be downloaded via simply cloning or downlading the repo as follow:
-`git clone https://github.com/zobeirraisi/PTDR.git`
+```
+git clone https://github.com/zobeirraisi/PTDR.git
+```
 
 The downloaded folder contains both the detection and recognition data.
 ```
@@ -23,7 +25,9 @@ PTDR/
 ```
 ### Synthetic PTDR
 The synthetic dataset that used only for pre-trainin of recognition task can be downloded from: 
+
 [█DROP-BOX-LINK](https://www.dropbox.com/scl/fi/i48a447j6d9dqgwso9qyz/PTDR-SYNTH.zip?rlkey=uggcfeghsae0gcugdx99vvuot&st=krm7n0dp&dl=0)
+
 █████████████████████████████████████████
 ## █ Training and Evaluation
 ```
